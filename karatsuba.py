@@ -1,4 +1,4 @@
-def rec(int a,int b):
+def rec( a, b):
     return a + b
     
 
@@ -6,6 +6,6 @@ def rec(int a,int b):
 
 def main():
     a = int(input(""))
-    b = int(intpu())
-    print(rec(a,b))
+    b = int(intpu(""))
+    print(rec(5,7))
 
